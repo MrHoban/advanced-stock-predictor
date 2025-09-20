@@ -1,6 +1,7 @@
 # 📈 Advanced Stock Market Predictor
 
-A comprehensive stock market analysis and prediction application built with Streamlit, featuring machine learning models, technical analysis, and interactive visualizations.
+A comprehensive stock market analysis and prediction application built with Streamlit, featuring machine learning models, technical analysis, and interactive visualizations. The idea came to me since I just started Investing and wanted to build just a simple predictor!
+Thought it would be a cool idea and since I learned most of my information with Python when it comes to API's and data virtulization went ahead and gave it my best shot. Let me know how it went! 
 
 ## 🌐 Live Demo
 **[Try the app here!](https://mrhoban-advanced-stock-predictor-advanced-stock-app-j7i3og.streamlit.app/)**
