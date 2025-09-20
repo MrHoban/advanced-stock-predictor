@@ -3,7 +3,7 @@
 A comprehensive stock market analysis and prediction application built with Streamlit, featuring machine learning models, technical analysis, and interactive visualizations.
 
 ## 🌐 Live Demo
-**[Try the app here!](https://your-app-name.streamlit.app)**
+**[Try the app here!](https://mrhoban-advanced-stock-predictor-advanced-stock-app-j7i3og.streamlit.app/)**
 
 ## 🚀 Features
 - **Machine Learning Predictions**: Advanced models including Random Forest, Linear Regression, and Support Vector Regression for stock price predictions.
